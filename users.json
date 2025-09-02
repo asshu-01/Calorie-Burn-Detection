@@ -1,0 +1,84 @@
+{
+    "user": {
+        "password": "b30f92fb0b08b2673820a98893d859fd0eec77736ebaea307fc789b16e76a999",
+        "history": [
+            {
+                "timestamp": "2025-08-31T23:41:37.930010",
+                "gender": "Male",
+                "age": 25,
+                "height": 170,
+                "weight": 65,
+                "duration": 30,
+                "heart_rate": 100,
+                "body_temp": 37.0,
+                "calories_burnt": 146.65
+            },
+            {
+                "timestamp": "2025-08-31T23:42:01.552791",
+                "gender": "Male",
+                "age": 25,
+                "height": 170,
+                "weight": 65,
+                "duration": 30,
+                "heart_rate": 100,
+                "body_temp": 37.0,
+                "calories_burnt": 146.65
+            },
+            {
+                "timestamp": "2025-08-31T23:42:07.750119",
+                "gender": "Male",
+                "age": 25,
+                "height": 170,
+                "weight": 65,
+                "duration": 30,
+                "heart_rate": 100,
+                "body_temp": 37.0,
+                "calories_burnt": 146.65
+            },
+            {
+                "timestamp": "2025-08-31T23:42:10.604293",
+                "gender": "Male",
+                "age": 25,
+                "height": 170,
+                "weight": 65,
+                "duration": 30,
+                "heart_rate": 100,
+                "body_temp": 37.0,
+                "calories_burnt": 146.65
+            },
+            {
+                "timestamp": "2025-08-31T23:49:25.708719",
+                "workout_type": "Cardio",
+                "duration": 30,
+                "heart_rate": 100,
+                "calories_burnt": 146.65
+            }
+        ],
+        "goal": 1500
+    },
+    "asa": {
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "history": [],
+        "goal": 2000
+    },
+    "asas": {
+        "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92",
+        "history": [
+            {
+                "timestamp": "2025-09-01T00:04:23.353609",
+                "workout_type": "Cardio",
+                "duration": 30,
+                "heart_rate": 100,
+                "calories_burnt": 156.31
+            },
+            {
+                "timestamp": "2025-09-01T09:50:42.114939",
+                "workout_type": "Yoga",
+                "duration": 30,
+                "heart_rate": 100,
+                "calories_burnt": 156.31
+            }
+        ],
+        "goal": 2000
+    }
+}
